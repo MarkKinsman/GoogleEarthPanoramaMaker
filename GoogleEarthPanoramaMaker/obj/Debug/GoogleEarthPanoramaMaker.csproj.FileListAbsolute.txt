@@ -1,0 +1,9 @@
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\bin\Debug\GoogleEarthPanoramaMaker.exe.config
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\bin\Debug\GoogleEarthPanoramaMaker.exe
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\bin\Debug\GoogleEarthPanoramaMaker.pdb
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.csprojResolveAssemblyReference.cache
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.Properties.Resources.resources
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.csproj.GenerateResource.Cache
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.exe
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.pdb
+c:\users\mkinsman\documents\visual studio 2017\Projects\GoogleEarthPanoramaMaker\GoogleEarthPanoramaMaker\obj\Debug\GoogleEarthPanoramaMaker.MainForm.resources
